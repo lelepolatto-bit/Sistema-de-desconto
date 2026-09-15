@@ -49,6 +49,4 @@ Valor utilizado: R$ 350,00.
 
 ![Teste com desconto de 15%](teste_desconto_15.png)
 
-## Autora
 
-Letícia Polatto
